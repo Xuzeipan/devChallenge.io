@@ -17,7 +17,7 @@ A minimalist blog card component challenge that focuses on clean design and resp
 - **Challenge Resources:** Available in `design/` and `resources/` directories
 
 ### 2. Simple FAQ
-A frequently asked questions component that implements interactive features and accordion functionality. This project covers HTML, CSS, and basic JavaScript interactivity.
+A frequently asked questions component. This project covers HTML, CSS, and basic JavaScript interactivity.
 
 - **Location:** `simple-faq-master/`
 - **Challenge Resources:** Available in `design/` and `resources/` directories
@@ -46,10 +46,6 @@ Through these challenges, the following skills are developed:
 - Web component design principles
 - User interface implementation
 - Cross-browser compatibility
-
-## License
-
-These projects are completed as part of the DevChallenges.io learning platform. Please refer to the original challenge resources at [devchallenges.io](https://devchallenges.io/) for specific license information.
 
 ---
 
